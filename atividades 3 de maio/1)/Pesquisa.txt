@@ -1,0 +1,2 @@
+A "função de callback" é uma função que é passada como um argumento para outra função e é executada depois que a função principal termina sua operação. Isso é comum em JavaScript para lidar com operações assíncronas, como chamadas de API, eventos e timers.
+
